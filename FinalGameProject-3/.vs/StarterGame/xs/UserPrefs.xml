@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{FCF517D5-3A6D-4330-BD6D-131E559A7BAD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="roomItem.cs">
+    <Files>
+      <File FileName="BackCommand.cs" Line="17" Column="23" />
+      <File FileName="Program.cs" />
+      <File FileName="GameWorld.cs" Line="240" Column="22" />
+      <File FileName="Player.cs" Line="213" Column="21" />
+      <File FileName="Parser.cs" Line="1" Column="1" />
+      <File FileName="Game.cs" Line="1" Column="1" />
+      <File FileName="Momento.cs" Line="1" Column="1" />
+      <File FileName="pickupCommand.cs" Line="1" Column="1" />
+      <File FileName="roomItem.cs" Line="1" Column="1" />
+      <File FileName="SellCommand.cs" />
+      <File FileName="CommandWords.cs" />
+      <File FileName="Monster.cs" />
+      <File FileName="Door.cs" />
+      <File FileName="Room.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StarterGame" expanded="True">
+            <Node name="StarterGame" expanded="True">
+              <Node name="roomItem.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StarterGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

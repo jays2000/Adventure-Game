@@ -1,0 +1,35 @@
+C:/Users/Rodrigo Obando/Documents/root/Courses2019/CPSC3175/Fall/StarterGame/StarterGame/bin/Debug/netcoreapp2.1/StarterGame.deps.json
+C:/Users/Rodrigo Obando/Documents/root/Courses2019/CPSC3175/Fall/StarterGame/StarterGame/bin/Debug/netcoreapp2.1/StarterGame.runtimeconfig.json
+C:/Users/Rodrigo Obando/Documents/root/Courses2019/CPSC3175/Fall/StarterGame/StarterGame/bin/Debug/netcoreapp2.1/StarterGame.runtimeconfig.dev.json
+C:/Users/Rodrigo Obando/Documents/root/Courses2019/CPSC3175/Fall/StarterGame/StarterGame/bin/Debug/netcoreapp2.1/StarterGame.dll
+C:/Users/Rodrigo Obando/Documents/root/Courses2019/CPSC3175/Fall/StarterGame/StarterGame/bin/Debug/netcoreapp2.1/StarterGame.pdb
+C:/Users/Rodrigo Obando/Documents/root/Courses2019/CPSC3175/Fall/StarterGame/StarterGame/obj/Debug/netcoreapp2.1/StarterGame.csprojAssemblyReference.cache
+C:/Users/Rodrigo Obando/Documents/root/Courses2019/CPSC3175/Fall/StarterGame/StarterGame/obj/Debug/netcoreapp2.1/StarterGame.csproj.CoreCompileInputs.cache
+C:/Users/Rodrigo Obando/Documents/root/Courses2019/CPSC3175/Fall/StarterGame/StarterGame/obj/Debug/netcoreapp2.1/StarterGame.AssemblyInfoInputs.cache
+C:/Users/Rodrigo Obando/Documents/root/Courses2019/CPSC3175/Fall/StarterGame/StarterGame/obj/Debug/netcoreapp2.1/StarterGame.AssemblyInfo.cs
+C:/Users/Rodrigo Obando/Documents/root/Courses2019/CPSC3175/Fall/StarterGame/StarterGame/obj/Debug/netcoreapp2.1/StarterGame.dll
+C:/Users/Rodrigo Obando/Documents/root/Courses2019/CPSC3175/Fall/StarterGame/StarterGame/obj/Debug/netcoreapp2.1/StarterGame.pdb
+/Users/justinswain/Downloads/StarterGame-5/StarterGame/bin/Debug/netcoreapp2.1/StarterGame.deps.json
+/Users/justinswain/Downloads/StarterGame-5/StarterGame/bin/Debug/netcoreapp2.1/StarterGame.runtimeconfig.json
+/Users/justinswain/Downloads/StarterGame-5/StarterGame/bin/Debug/netcoreapp2.1/StarterGame.runtimeconfig.dev.json
+/Users/justinswain/Downloads/StarterGame-5/StarterGame/bin/Debug/netcoreapp2.1/StarterGame.dll
+/Users/justinswain/Downloads/StarterGame-5/StarterGame/bin/Debug/netcoreapp2.1/StarterGame.pdb
+/Users/justinswain/Downloads/StarterGame-5/StarterGame/obj/Debug/netcoreapp2.1/StarterGame.csprojAssemblyReference.cache
+/Users/justinswain/Downloads/StarterGame-5/StarterGame/obj/Debug/netcoreapp2.1/StarterGame.AssemblyInfoInputs.cache
+/Users/justinswain/Downloads/StarterGame-5/StarterGame/obj/Debug/netcoreapp2.1/StarterGame.AssemblyInfo.cs
+/Users/justinswain/Downloads/StarterGame-5/StarterGame/obj/Debug/netcoreapp2.1/StarterGame.csproj.CoreCompileInputs.cache
+/Users/justinswain/Downloads/StarterGame-5/StarterGame/obj/Debug/netcoreapp2.1/StarterGame.dll
+/Users/justinswain/Downloads/StarterGame-5/StarterGame/obj/Debug/netcoreapp2.1/StarterGame.pdb
+/Users/justinswain/Downloads/StarterGame-5/StarterGame/obj/Debug/netcoreapp2.1/StarterGame.genruntimeconfig.cache
+/Users/justinswain/Downloads/FinalGameProject-3/bin/Debug/netcoreapp2.1/StarterGame.deps.json
+/Users/justinswain/Downloads/FinalGameProject-3/bin/Debug/netcoreapp2.1/StarterGame.runtimeconfig.json
+/Users/justinswain/Downloads/FinalGameProject-3/bin/Debug/netcoreapp2.1/StarterGame.runtimeconfig.dev.json
+/Users/justinswain/Downloads/FinalGameProject-3/bin/Debug/netcoreapp2.1/StarterGame.dll
+/Users/justinswain/Downloads/FinalGameProject-3/bin/Debug/netcoreapp2.1/StarterGame.pdb
+/Users/justinswain/Downloads/FinalGameProject-3/obj/Debug/netcoreapp2.1/StarterGame.csprojAssemblyReference.cache
+/Users/justinswain/Downloads/FinalGameProject-3/obj/Debug/netcoreapp2.1/StarterGame.AssemblyInfoInputs.cache
+/Users/justinswain/Downloads/FinalGameProject-3/obj/Debug/netcoreapp2.1/StarterGame.AssemblyInfo.cs
+/Users/justinswain/Downloads/FinalGameProject-3/obj/Debug/netcoreapp2.1/StarterGame.csproj.CoreCompileInputs.cache
+/Users/justinswain/Downloads/FinalGameProject-3/obj/Debug/netcoreapp2.1/StarterGame.dll
+/Users/justinswain/Downloads/FinalGameProject-3/obj/Debug/netcoreapp2.1/StarterGame.pdb
+/Users/justinswain/Downloads/FinalGameProject-3/obj/Debug/netcoreapp2.1/StarterGame.genruntimeconfig.cache
