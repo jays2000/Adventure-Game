@@ -1,1 +1,2 @@
 # Adventure-Game
+This is a console based adventure game created with C# in visual studio. The object of the game is to walk around the castle to pick up items to be able to trade for the sacred crown to escape the castle. You can use items to sell and trade in a special trade room. There is also a trap room and a random transporter room. To play the game just download the file and run the game in visual studio. 
